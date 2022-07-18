@@ -1,4 +1,3 @@
-# Chat-Messenger-Application-in-Java
 <div align = "center">
     <h1>CHAT MESSENGER APPLICATION</h1>
 </div>
