@@ -12,7 +12,7 @@ class Server
         ServerSocket ss = new ServerSocket(1100);
         Socket s = ss.accept();
         
-        System.out.println("Connection succesful");
+        System.out.println("Connection succesfull");
         BufferedReader brK = new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br = new BufferedReader(new InputStreamReader(s.getInputStream()));
         PrintStream ps = new PrintStream(s.getOutputStream());
